@@ -2,8 +2,8 @@ var dog,sadDog,happyDog, database;
 var foodS,foodStock;
 var addFood;
 var foodObj;
-var hour = today.getHours();
-var today = new Date;
+var hour 
+var today 
 
 //create feed and lastFed variable here
 var feed, lastFed;

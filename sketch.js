@@ -55,11 +55,11 @@ function draw() {
  
   fill("white");
   if(lastFed>=12){
-    text("Last Feed : " + hour + " PM",350,30);
+    text("Last Feed : " + hour + " Hrs",350,30);
   }else if(lastFed===0){
     text("Last Feed : 12 AM",350,30);
   }else{
-    text("Last Feed : " + hour + " AM",350,30);
+    text("Last Feed : " + hour + " Hrs",350,30);
   }
 
  
